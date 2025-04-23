@@ -1,7 +1,7 @@
 # Olá! 👋
 
 Sou estudante de Engenharia da Computação, com interesse em desenvolvimento de software. 
-Tenho 22 anos e atualmente resído em Cuiabá
+Tenho 22 anos e atualmente resído em Cuiabá - MT
 
 ### 🛠️ Tecnologias que estudo:
 
