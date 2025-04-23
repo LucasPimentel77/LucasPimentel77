@@ -1,7 +1,7 @@
 # Olá! 👋
 
-Sou estudante de Engenharia da Computação, com interesse em desenvolvimento de software.  
-Atualmente aprendendo **Python, C e Git**.  
+Sou estudante de Engenharia da Computação, com interesse em desenvolvimento de software. 
+Tenho 22 anos e atualmente resído em Cuiabá
 
 ### 🛠️ Tecnologias que estudo:
 
